@@ -14,11 +14,11 @@ This project aims to provide a basic admin template with everything needed for s
 ## Features
 
 - Users authentication
+- Forgotten Password
 
 
 ## Roadmap
 
-- Forgotten Password
 - Two-Steps Auth by email
 - Two-Steps Auth by app
 - Two-Steps Auth by sms
